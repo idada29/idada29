@@ -11,7 +11,6 @@
 
 📚 I have a strong background in data analysis, with past experience working as an Insight & Data Analyst across various firms.
 
-💻 Charting a new course: My goal is to excel as a Data & Insight Analyst and collaborate with a dynamic team in the long term
 
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
