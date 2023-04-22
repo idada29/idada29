@@ -4,6 +4,7 @@
 
 
 👋🏽 Hi, my name is Isaac 
+
 🎓 I have a Bachelor's of Science in Physics, and Masters in Data Science.
 
 🌇 I'm fascinated by big data and committed to learning everything I can about it.
