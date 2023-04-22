@@ -1,5 +1,9 @@
-👋🏽 Hi, my name is Isaac
 
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+👋🏽 Hi, my name is Isaac 
 🎓 I have a Bachelor's of Science in Physics, and Masters in Data Science.
 
 🌇 I'm fascinated by big data and committed to learning everything I can about it.
@@ -17,9 +21,8 @@
 
 🟢 How to reach me @email:  dadaisaacifeoluwa@gmail.com
 
+
 <!---
 idada29/idada29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
