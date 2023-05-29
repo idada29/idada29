@@ -31,7 +31,7 @@
 
 | Project Link | Area of Analysis | Project Description | Features |
 |---|---|---|---|
-| 🥑 [Foodie-Fi](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi) | Data analysis | I use subscription-style digital data to analyze customer journey, payments, and business performance.| Data cleaning, Advanced aggregations, CASE WHEN statements, Window Functions, Joins, Date time functions,CTEs |
+| 🥑 [Fresh Segment]([https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi](https://github.com/idada29/Case-Study-8---Fresh-Segments-)) | Data analysis | I analyse customer behavior and interests to help clients understand their customers.| Data cleaning, Advanced aggregations, CASE WHEN statements, Window Functions, Joins, Date time functions,CTEs |
 | 🏦 [The Tiny Shop]() | Data analysis | Using thetiny shop order data, I calculate metrics important to the organization, and analyze data for order rate, spending and sales pattern and product popularity| Aggregations, CASE WHEN statements, Window Functions, Joins, Date time functions,CTEs|
 
 ***
