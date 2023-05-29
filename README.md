@@ -22,6 +22,23 @@
 🟢 How to reach me @email:  dadaisaacifeoluwa@gmail.com
 
 
+
+
+
+***
+
+# SQL CASE STUDY GUIDE
+
+| Project Link | Area of Analysis | Project Description | Features |
+|---|---|---|---|
+| 🥑 [Foodie-Fi](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi) | Data analysis | I use subscription-style digital data to analyze customer journey, payments, and business performance.| Data cleaning, Advanced aggregations, CASE WHEN statements, Window Functions, Joins, Date time functions,CTEs |
+| 🏦 [The Tiny Shop]() | Data analysis | Using thetiny shop order data, I calculate metrics important to the organization, and analyze data for order rate, spending and sales pattern and product popularity| Aggregations, CASE WHEN statements, Window Functions, Joins, Date time functions,CTEs|
+
+***
+
+
+
+
 <!---
 idada29/idada29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
