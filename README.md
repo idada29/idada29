@@ -33,7 +33,7 @@
 |---|---|---|---|
 | 🍊 [Fresh Segment](https://github.com/idada29/Case-Study-8---Fresh-Segments-) | Data analysis | I analyse customer behavior and interests to help clients understand their customers.| Data cleaning, Advanced aggregations, CASE WHEN statements, Window Functions, Joins, Date time functions,CTEs |
 | 🏦 [The Tiny Shop](https://github.com/idada29/The_Tiny_Shop/tree/main) | Data analysis | Using thetiny shop order data, I calculate metrics important to the organization, and analyze data for order rate, spending and sales pattern and product popularity| Aggregations, CASE WHEN statements, Window Functions, Joins, Date time functions,CTEs|
-
+| 🧑‍💻 [HR Analytics](https://github.com/idada29/All-SQL-Analysis/tree/main/DIM_Casestudy_2_HR_Analytics) | Data analysis | Using HR and People data, I evalauted several key HR metrics including hiring rate, project deadlines, Department Hiring ranks among others | Aggregations, Window Functions, Joins, Date time functions,CTEs|
 ***
 
 
